@@ -6,4 +6,7 @@ This Repository contains course work done at African Masters in Machine Intellig
   
   * Maximum Likelihood Estimation
   
-  * Maximum A Posteriori Estimation¶
+  * Maximum A Posteriori Estimation
+  
+  
+ * Bayesian Optimization
