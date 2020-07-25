@@ -4,4 +4,6 @@ This Repository contains course work done at African Masters in Machine Intellig
 
 * Linear Regression
   
-  * Maximum Likelihood
+  * Maximum Likelihood Estimation
+  
+  * Maximum A Posteriori Estimation¶
