@@ -14,5 +14,7 @@ This Repository contains course work done at African Masters in Machine Intellig
  The goal of the Bayessian Optimization file  is to illustrate how to use Gaussian processes for Global optimization.
 
  We  focused on two aspects of Bayesian Optimization (BO):
-    * 1. Choice of the model 
+ 
+    * 1. Choice of the model
+    
     * 2. Acquisition function.
