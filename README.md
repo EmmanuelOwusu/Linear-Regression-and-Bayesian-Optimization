@@ -4,7 +4,7 @@ This Repository contains course work done at African Masters in Machine Intellig
 
 * Linear Regression
   
-  * Maximum Likelihood Estimation
+  * Maximum Likelihood Estimation : is a method of estimating the parameters of a probability distribution by maximizing a likelihood function
   
   * Maximum A Posteriori Estimation
   
