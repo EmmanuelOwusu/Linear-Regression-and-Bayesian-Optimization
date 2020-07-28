@@ -6,7 +6,7 @@ This Repository contains course work done at African Masters in Machine Intellig
   
   * Maximum Likelihood Estimation : is a method of estimating the parameters of a probability distribution by maximizing a likelihood function
   
-  * Maximum A Posteriori Estimation
+  * Maximum A Posteriori Estimation : is an estimate of an unknown quantity, that equals the mode of the posterior distribution.
   
   
  * Bayesian Optimization
