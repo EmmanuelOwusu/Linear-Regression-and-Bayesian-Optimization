@@ -15,6 +15,6 @@ This Repository contains course work done at African Masters in Machine Intellig
 
  We  focused on two aspects of Bayesian Optimization (BO):
  
-     * Choice of the model
+     1. Choice of the model
     
-     * Acquisition function.
+     2. Acquisition function.
