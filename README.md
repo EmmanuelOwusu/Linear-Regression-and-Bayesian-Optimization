@@ -20,7 +20,7 @@ This Repository contains course work done at African Masters in Machine Intellig
      2. Acquisition function.
      
      
- * We then Define a GP prior
+ * We then define a GP prior
 
      * We use GPy package as it has GP training and prediction available for us.
      
